@@ -24,7 +24,7 @@ const items = [
     icon: ClipboardList,
   },
   {
-    title: "LeetCode",
+    title: "LeetCode Tracker",
     url: "#",
     icon: Code,
   },
